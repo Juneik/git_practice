@@ -1,2 +1,2 @@
 Hello Git and Github.
-This is the an edit for testing.
+This is an edit for testing.
